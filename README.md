@@ -45,7 +45,7 @@ After npm i (install) your able to use all npm packages
 
 _GIF of install:_
 
-![gifInstall](./Assets/img/oopTeamGenerator.gif)
+![./Assets/img/oopTeamGenerator.gif](./Assets/img/oopTeamGenerator.gif)
 
 ---
 
@@ -53,7 +53,7 @@ _GIF of install:_
 
 _Example of the rendered product:_
 
-![document](./Assets/img/oopTeamGenerator.png)
+![./Assets/img/oopTeamGenerator.png](./Assets/img/oopTeamGenerator.png)
 
 ---
 
