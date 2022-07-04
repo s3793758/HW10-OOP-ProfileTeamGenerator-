@@ -2,29 +2,30 @@ const {
   getManagerTemplate,
   getEngineerTemplate,
   getInternTemplate,
-} = require("../utils/templates");
+} = require('../utils/templates');
 
 // create the team
+// filtering out infromation and displaying it
 const generateTeam = (team) => {
   const manager = team
-    .filter((person) => person.getRole() === "Manager")
+    .filter((person) => person.getRole() === 'Manager')
     .map((manager) => getManagerTemplate(manager));
 
   const engineer = team
-    .filter((person) => person.getRole() === "Engineer")
+    .filter((person) => person.getRole() === 'Engineer')
     .map((engineer) => getEngineerTemplate(engineer))
-    .join("");
+    .join('');
 
   const intern = team
-    .filter((person) => person.getRole() === "Intern")
+    .filter((person) => person.getRole() === 'Intern')
     .map((intern) => getInternTemplate(intern))
-    .join("");
+    .join('');
 
   html = [manager, engineer, intern];
 
-  return html.join("");
+  return html.join('');
 };
-
+//displaying it in a template literal
 const generateTemplate = (team) => {
   return `
     <!DOCTYPE html>

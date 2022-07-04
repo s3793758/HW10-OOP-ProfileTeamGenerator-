@@ -1,3 +1,4 @@
+//ensure all test cases is correct 
 const Employee = require("../lib/Employee");
 
 describe("testing Employee class", () => {
