@@ -29,7 +29,7 @@ While making this app, I learned about the usefulness of constructors and method
 | run the generator  | `node index.js` |
 | answer the prompts | `{answer}`      |
 
-_iew on YouTube:_ [Demo On YouTube]()
+_view on YouTube:_ [Demo On YouTube]()
 
 ## Testing
 
@@ -41,9 +41,9 @@ After npm i (install) your able to use all npm packages
 
 ## Screenshots
 
-### gifInstall
+### gifRunning
 
-_GIF of install:_
+_GIF of running:_
 
 ![./Assets/img/oopTeamGenerator.gif](./Assets/img/oopTeamGenerator.gif)
 
