@@ -17,7 +17,7 @@ While making this app, I learned about the usefulness of constructors and method
 | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | install [Node.js](https://nodejs.org/en/download/)                                  | —                                                                      |
 | clone from [GitHub](https://github.com/s3793758/HW10-OOP-ProfileTeamGenerator-.git) | `git clone git@github.com:s3793758/HW10-OOP-ProfileTeamGenerator-.git` |
-| go inside the folder                                                                | `cd OOP`                                    |
+| go inside the folder                                                                | `cd OOP`                                                               |
 | install dependencies                                                                | `npm i (install)`                                                      |
 
 ## Usage
@@ -27,7 +27,7 @@ While making this app, I learned about the usefulness of constructors and method
 | run the generator  | `node index.js` |
 | answer the prompts | `{answer}`      |
 
- Demo ![Demo](https://drive.google.com/file/d/1XjgAsaY8RanX45MpkJijta9xc9TZSzkL/view)
+Demo [Demo]https://drive.google.com/file/d/1XjgAsaY8RanX45MpkJijta9xc9TZSzkL/view
 
 ## Testing
 
